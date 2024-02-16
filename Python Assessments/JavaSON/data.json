@@ -1,0 +1,16 @@
+{
+    "Courses": [
+        {
+            "Name" : "Java Foundation",
+            "Created by" : "Hexa",
+            "Content" : [ "Java Core", "JSP",
+                        "Servlets", "Collections" ]
+        },
+
+        {
+            "Name" : "Data Structures",
+            "Created by" : "Interview Preparation Course",
+            "Content" : [ "Trees", "Graphs", "Maps" ]
+        }
+    ]
+}
